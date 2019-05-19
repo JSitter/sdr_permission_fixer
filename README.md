@@ -1,0 +1,2 @@
+# SDR Script
+This script allows GQRX or any other SDR application to interact with the hardware radio. It only looks for Realtek radios however if you should find another radio that needs to have it's permissions set before use.
